@@ -25,7 +25,7 @@ body{
 #player{
     border: 1px solid;
     height: 400px;
-    width: 270px;
+    width: 240px;
     display: flex;
     justify-content: center;
     border-radius: 10px;
