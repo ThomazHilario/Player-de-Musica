@@ -9,6 +9,7 @@
 :root{
     --titulo:"arista";
     --autor:"louis";
+    --cordoplayer:#251f1f;
 }
 *{
     padding: 0;
@@ -30,7 +31,7 @@ body{
     justify-content: center;
     border-radius: 10px;
     box-shadow: 1px 1px 5px black;
-    background-color: #251f1f;
+    background-color:var(--cordoplayer) ;
 
 }
 div#img{
